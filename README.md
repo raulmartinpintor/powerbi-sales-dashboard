@@ -64,6 +64,6 @@ Aplicar un flujo completo de análisis y visualización de datos en Power BI:
 
 ## 📷 Vista del dashboard
 
-<img src="imagenes/dashboard_1.png" width="85%">
+<img src="imagenes/dashboard_1.png" width="95%">
 
-<img src="imagenes/dashboard_2.png" width="85%">
+<img src="imagenes/dashboard_2.png" width="95%">
